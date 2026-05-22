@@ -2,6 +2,8 @@
 
 This is official repository for paper "M2Diff: Multi-Modality Multi-Task Enhanced Diffusion for MRI-Guided Low-Dose PET Enhancement" submitted to MICCAI 2025.
 
+Paper Link: https://doi.org/10.1109/TRPMS.2026.3672075
+
 Monash DaCRA fPET-fMRI dataset: https://openneuro.org/datasets/ds003397/versions/1.2.3
 ADNI dataset: https://adni.loni.usc.edu/data-samples/adni-data/
 
